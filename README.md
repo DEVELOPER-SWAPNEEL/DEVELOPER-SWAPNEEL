@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/a2/85/43/a2854362e355f679ac7519d88337d466.gif)](https://www.linkedin.com/in/swapneel-purohit-nik1311/)
 <h1 align="center">Hi 👋, I'm SWAPNEEL PUROHIT</h1>
-<h3 align="center">Tech-thirsty CSE student at KIIT, crafting skills, coding dreams.</h3>
+<h3 align="center">Tech-thirsty CSE with system specialization student at KIIT, crafting skills, coding dreams.</h3>
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-swapneel&label=Profile%20views&color=0e75b6&style=flat" alt="developer-swapneel" /> </p>
