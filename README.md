@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DEVELOPER-SWAPNEEL/DEVELOPER-SWAPNEEL/blob/main/floating%20in%20space.gif" alt="logo">
+  <img src="https://github.com/DEVELOPER-SWAPNEEL/DEVELOPER-SWAPNEEL/blob/main/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-4.gif" alt="logo">
 </p>
 
 [![MasterHead](https://i.pinimg.com/originals/a2/85/43/a2854362e355f679ac7519d88337d466.gif)](https://www.linkedin.com/in/swapneel-purohit-nik1311/)
