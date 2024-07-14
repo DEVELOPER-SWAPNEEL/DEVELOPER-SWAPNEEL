@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/DEVELOPER-SWAPNEEL/DEVELOPER-SWAPNEEL/blob/main/floating%20in%20space.gif" alt="logo">
+</p>
+
 [![MasterHead](https://i.pinimg.com/originals/a2/85/43/a2854362e355f679ac7519d88337d466.gif)](https://www.linkedin.com/in/swapneel-purohit-nik1311/)
 <h1 align="center">Hi 👋, I'm SWAPNEEL PUROHIT</h1>
 <h3 align="center">Tech-thirsty CSE with system specialization student at KIIT, crafting skills, coding dreams.</h3>
@@ -29,4 +33,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-swapneel&show_icons=true&locale=en&layout=compact" alt="developer-swapneel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-swapneel&show_icons=true&locale=en" alt="developer-swapneel" /></p>
+
